@@ -1,4 +1,6 @@
+
 #.gitignore
+
 # xcode noise
 build/
 *.pbxuser
@@ -9,6 +11,9 @@ xcuserdata
 *.moved-aside
 DerivedData
 
+# cocoaPods
+Podfile.lock
+Pods/
 
 # old skool
 .svn
