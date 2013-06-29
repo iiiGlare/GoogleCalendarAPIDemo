@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86F10AF1-09DB-40DB-B563-C83E09BBA4E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoogleCalendarAPIDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C166D57-BE18-4104-8359-5BA8AB1F9EF3</key>
+		<string>https://github.com/GlareCH/GoogleCalendarAPIDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GoogleCalendarAPIDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C166D57-BE18-4104-8359-5BA8AB1F9EF3</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GlareCH/GoogleCalendarAPIDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C166D57-BE18-4104-8359-5BA8AB1F9EF3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C166D57-BE18-4104-8359-5BA8AB1F9EF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoogleCalendarAPIDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
